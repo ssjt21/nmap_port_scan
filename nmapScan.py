@@ -4,7 +4,7 @@
 @author:随时静听
 @file: nmapScan.py
 @time: 2018/08/23
-@email:wang_di@topsec.com.cn
+
 """
 from IPy import IP
 import glob
